@@ -2,7 +2,7 @@
 
 #Required Setup
 
-The following is the setup that you WILL need to perform to configure all necessary prerequisites to be able to enjoy the week. If you have any questions, please do not hesitate to ask!!
+The following is the setup that you WILL need to perform to configure all necessary prerequisites to be able to enjoy the week. The setup process should take no longer than 1 hour. Please ensure it is completed prior to the start of the first morning of class.
 
 ##Make sure that you have configured windows to show all hidden files and folders
 
